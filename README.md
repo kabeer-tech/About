@@ -20,11 +20,7 @@ I have experience working with HTML, CSS, and JavaScript, and I'm continuously l
         <p><a href="https://t.me/@mkabeer773" class="text-blue-300 hover:underline">Telegram</a></p>
     </div>
     
-    <!-- Image and Name -->
-    <div class="mt-4 md:mt-0 text-center">
-        <img src="tech.jpg" alt="Your Name" class="w-24 h-24 rounded-full mx-auto border-2 border-white">
-        <p class="mt-2 font-semibold">KABEER_TECH</p>
-    </div>
+    <img src="https://www.istockphoto.com/photos/indian-man-in-office">
   </footer>
   </body>
 </html>
