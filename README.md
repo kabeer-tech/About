@@ -20,7 +20,7 @@ I have experience working with HTML, CSS, and JavaScript, and I'm continuously l
         <p><a href="https://t.me/@mkabeer773" class="text-blue-300 hover:underline">Telegram</a></p>
     </div>
     
-    <img src="https://www.istockphoto.com/photos/indian-man-in-office">
+    <img url="https://www.istockphoto.com/photos/indian-man-in-office">
   </footer>
   </body>
 </html>
