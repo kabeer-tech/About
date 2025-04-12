@@ -1,26 +1,40 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kabeer Tech</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
-<html>
-  <body>
+<body>
   <header>
-    <h1 style="color: green; text-align: center;">WELCOME TO KABEER TECH</h1>
+    <div class="container">
+      <h1>Kabeer Tech</h1>
+      <p>Innovate | Create | Inspire</p>
+    </div>
   </header>
   <main>
-    <p>Hi, I'm Muhammad, a passionate web developer and tech enthusiast. I enjoy creating dynamic and user-friendly websites while exploring the latest trends in web technologies. Currently, I am expanding my knowledge in web development through my coursework and practical projects.
-
-I have experience working with HTML, CSS, and JavaScript, and I'm continuously learning more about modern frameworks and backend technologies. My goal is to build innovative and efficient web solutions that enhance user experiences</p>
+    <section class="about-me container">
+      <div class="about-text">
+        <h2>About Me</h2>
+        <p>Hello, I'm Kabeer, a technology enthusiast and innovator. My passion lies in building scalable solutions that make a meaningful impact. I specialize in coding, problem-solving, and exploring cutting-edge technologies to stay ahead in this ever-evolving field.</p>
+        <p>Beyond my work, I enjoy sharing knowledge and collaborating with like-minded individuals. Let's connect and create something extraordinary together.</p>
+      </div>
+    </section>
+    <section class="social-links container">
+      <h2>Connect with Me</h2>
+      <ul>
+        <li><a href="https://twitter.com/kabeer-tech" target="_blank">Twitter</a></li>
+        <li><a href="https://linkedin.com/in/kabeer-tech" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/kabeer-tech" target="_blank">GitHub</a></li>
+      </ul>
+    </section>
   </main>
   <footer>
-    <div class="space-y-2 text-center md:text-left">
-        <h2 class="text-lg font-semibold">Get in Touch</h2>
-        <p><a href="mailto:kabiruusmanshamaki@gmail.com" class="text-blue-400 hover:underline">Email: your-email@example.com</a></p>
-        <p><a href="https://wa.me/07089917073" class="text-green-400 hover:underline">WhatsApp</a></p>
-        <p><a href="https://t.me/@mkabeer773" class="text-blue-300 hover:underline">Telegram</a></p>
+    <div class="container footer-content">
+      <p>&copy; 2025 Kabeer Tech. All rights reserved.</p>
+      <img src="https://via.placeholder.com/150" alt="Your Picture" class="footer-pic">
     </div>
-    
-    <img url="https://www.istockphoto.com/photos/indian-man-in-office">
   </footer>
-  </body>
+</body>
 </html>
