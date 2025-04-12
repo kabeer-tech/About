@@ -33,7 +33,7 @@
   <footer>
     <div class="container footer-content">
       <p>&copy; 2025 Kabeer Tech. All rights reserved.</p>
-      <img src="https://via.placeholder.com/150" alt="Your Picture" class="footer-pic">
+      <img src="mk.jpg" alt="Your Picture" class="footer-pic">
     </div>
   </footer>
 </body>
